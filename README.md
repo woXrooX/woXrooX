@@ -1,4 +1,4 @@
-### Aspiring Web Developer and Lifetime student, Experience with JavaScript and Python
+### Aspiring Web Developer and Lifetime student, Experience with JavaScript and Python 😎
 
 <!--
 **woXrooX/woXrooX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
