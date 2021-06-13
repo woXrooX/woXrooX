@@ -1,4 +1,4 @@
-### Aspiring Web Developer and Lifetime student, Experience with JavaScript and Python 😎
+### I Build Whatever Pleases 😎
 
 https://woxroox.github.io/woXrooX/
 
