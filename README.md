@@ -1,3 +1,3 @@
 # When Creativity Meets Technology
 
-[Portfolio](https://woxroox.github.io/Portfolio)
+[About me](https://woxroox.github.io/Portfolio)
